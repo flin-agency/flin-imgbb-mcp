@@ -1,3 +1,20 @@
-node_modules/
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
 dist/
+build/
+.venv/
+*.egg
+
+# Tools
+.ruff_cache/
+.pytest_cache/
+.pyright/
+
+# Environment
 .env
+
+# Node.js (legacy)
+node_modules/
