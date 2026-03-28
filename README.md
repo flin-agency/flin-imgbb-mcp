@@ -96,8 +96,8 @@ uv build
 Releases are published to PyPI automatically when a version tag is pushed:
 
 ```bash
-git tag v1.0.1
-git push origin v1.0.1
+git tag v1.0.2
+git push origin v1.0.2
 ```
 
 The GitHub Actions release workflow builds the package and publishes it via PyPI Trusted Publishing.
