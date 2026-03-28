@@ -15,6 +15,7 @@ build/
 
 # Environment
 .env
+uv.lock
 
 # Node.js (legacy)
 node_modules/

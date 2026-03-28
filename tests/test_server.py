@@ -1,6 +1,5 @@
 """Tests for flin-imgbb-mcp server."""
 
-import os
 from unittest.mock import AsyncMock, MagicMock, patch
 
 import pytest
