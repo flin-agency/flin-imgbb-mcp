@@ -4,7 +4,7 @@ build-backend = "hatchling.build"
 
 [project]
 name = "flin-imgbb-mcp"
-version = "1.0.0"
+version = "1.0.1"
 description = "MCP server for uploading images to ImgBB"
 readme = "README.md"
 license = { text = "MIT" }
